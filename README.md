@@ -1,37 +1,14 @@
-# 1. Prompt 1: Tìm hiểu khách hàng
+# PR : public relations : quan hệ cong chung : gioi thieu quảng ba, sản phẩm
+Bai 2: PROMT CHAINING!
 
-**Prompt:**
+- promt1: hay đong vai trò và chuyên gia marketing, hay nghiên cứu khách hàng của sản phẩm AI chatbot
+Xác định đoi tượng khach hàng, nhu cau, lợi ích san pham mang lại!
 
-Bạn là nhân viên Marketing. Hãy tìm hiểu khách hàng mục tiêu của sản phẩm AI Chatbot dành cho doanh nghiệp. Liệt kê độ tuổi, nhu cầu, khó khăn và những vấn đề mà sản phẩm có thể giải quyết.
+- promt2: dua vao kết quả promt1, hay xây dựng dan ý chi tiet cho bai PR san phẩm giới thiệu AI
+chat bot. Yeu cau noi dung hap dan, chuyn nghiep, giai quyet các vấn đề khách hàng gap phai. Nội
+dung phải có các tiêu đề H1, H2, H3, giữ giọng điệu chuyên nghiệp
 
-**Đầu ra:** Danh sách khách hàng mục tiêu và các nỗi đau (Pain Points).
-
-# 2. Prompt 2: Xây dựng dàn ý
-
-**Prompt:**
-
-Dựa vào kết quả của Prompt 1, hãy lập dàn ý chi tiết cho bài PR giới thiệu AI Chatbot. Dàn ý cần có tiêu đề, mở đầu, lợi ích sản phẩm, tính năng nổi bật và kết luận.
-
-**Đầu ra:** Dàn ý bài viết theo cấu trúc H1, H2, H3.
-
-# 3. Prompt 3: Viết bài PR
-
-**Prompt:**
-
-Dựa vào dàn ý của Prompt 2, hãy viết bài PR dài khoảng 1000–1500 từ. Sử dụng giọng văn chuyên nghiệp, dễ hiểu và đáng tin cậy. Tối ưu từ khóa SEO, có tiêu đề hấp dẫn, đoạn mở đầu thu hút và lời kêu gọi hành động (CTA) ở cuối bài.
-
-**Đầu ra:** Bài PR hoàn chỉnh.
-
-# 4. Truyền dữ liệu giữa các Prompt
-
-- Prompt 1 tạo thông tin khách hàng và Pain Points.
-- Prompt 2 sử dụng kết quả Prompt 1 để lập dàn ý.
-- Prompt 3 sử dụng kết quả Prompt 2 để viết bài.
-
-Như vậy, kết quả của bước trước sẽ là đầu vào của bước tiếp theo.
-
-# 5. Xử lý khi AI bị ngắt giữa chừng
-
-Sử dụng câu lệnh:
-
-"**Hãy tiếp tục viết từ đúng vị trí bị dừng, không lặp lại nội dung cũ, giữ nguyên dàn ý và giọng văn chuyên nghiệp.**"
+- promt3: dựa vào kết quả của promt2, viết bài dài khoảng 1000-1500 từ giới thiệu về sản phẩm AI
+chat bot , nội dung hap dan thu hut, toi ưu tu khoa SEO tự nhien, giu giong van nhat quan. Neu
+bai viet ngắt quang do het token thì hay tiep tuc tu cau cuoi cung, khong lap lai nội dung cũ va
+giữ nguyên giọng điệu,
